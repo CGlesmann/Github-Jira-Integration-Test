@@ -6,6 +6,7 @@ function helloWorld()
     console.log("145623");
     console.log("adiawgudhaw");
     console.log("aoihgeuoiwg");
+    console.log("sefoiusehgfisuegh");
 }
 
 helloWorld();
