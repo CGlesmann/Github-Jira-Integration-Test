@@ -10,6 +10,7 @@ function helloWorld()
     console.log("iuawehfiawhfuih");
     console.log("adouiwahdiuawhdiuawd");
     console.log("awduohawiudhawd");
+    console.log("Finally");
 }
 
 helloWorld();
