@@ -8,7 +8,8 @@ function helloWorld()
     console.log("aoihgeuoiwg");
     console.log("sefoiusehgfisuegh");
     console.log("iuawehfiawhfuih");
-    console.log("adouiwahdiuawhdiuawd")
+    console.log("adouiwahdiuawhdiuawd");
+    console.log("awduohawiudhawd");
 }
 
 helloWorld();
