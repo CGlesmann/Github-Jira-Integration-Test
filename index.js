@@ -7,6 +7,7 @@ function helloWorld()
     console.log("adiawgudhaw");
     console.log("aoihgeuoiwg");
     console.log("sefoiusehgfisuegh");
+    console.log("iuawehfiawhfuih");
 }
 
 helloWorld();
